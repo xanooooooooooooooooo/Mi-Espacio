@@ -1,2 +1,2 @@
 # Mi-Espacio
-App enfocada en la salud mental de los estudiantes
+Aplicación diseñada para apoyar el bienestar emocional de estudiantes, ofreciendo herramientas para manejar el estrés, la ansiedad y otros desafíos comunes en el entorno académico. Incluye funciones como seguimiento del estado de ánimo, recordatorios para pausas activas, ejercicios de respiración, y recursos de apoyo emocional. El objetivo es crear un espacio seguro y accesible para que los estudiantes puedan cuidar su salud mental de forma constante.
